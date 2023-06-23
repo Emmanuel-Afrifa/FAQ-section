@@ -15,7 +15,7 @@
 ![Screenshot of the webpage](Web%20capture_23-6-2023_10947_127.0.0.1.jpeg)
 
 ### Links
-- [Github repository](#)
+- [Github repository](https://github.com/Emmanuel-Afrifa/FAQ-section)
 
 ## Process
 ### Tools Used
